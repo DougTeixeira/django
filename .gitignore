@@ -121,7 +121,6 @@ __pycache__/
 __localcode
 venv
 env
-curso_django
 passos
 .DS_Store
 local_settings.py
